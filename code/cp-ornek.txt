@@ -4,3 +4,9 @@ ders1
 $ cp ders1 ders2
 $ ls
 ders1  ders2
+
+
+$ cp projeler/proje1 odevler/odev1
+$ cd odevler
+$ ls
+$ odev1
